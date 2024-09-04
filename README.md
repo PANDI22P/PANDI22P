@@ -3,4 +3,5 @@
 
 <!---
 
-![KAFKA SMILE OUR YOU COMMNET IS HAPPY SUSHINE] (https://images.app.goo.gl/M28CouaYX3Ff4ce3A)
+![KAFKA SMILE OUR YOU COMMNET IS HAPPY SUSHINE] 
+![image](https://github.com/user-attachments/assets/7346407d-b5e2-44ce-a3d5-265d6ca99ef3)
