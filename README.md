@@ -3,4 +3,4 @@
 
 <!---
 
-/main/assets/images/electrocat.png
+[/](https://images.app.goo.gl/sUMuiF1pX5rcufJg7)/main/assets/images/electrocat.png
