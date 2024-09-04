@@ -3,4 +3,4 @@
 
 <!---
 
-[/](https://images.app.goo.gl/sUMuiF1pX5rcufJg7)/main/assets/images/electrocat.png
+[md/main/assets/images/kafka.png]
